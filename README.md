@@ -1,6 +1,10 @@
 Redirected URLs
 ===============
 
+```
+This branch is for SS5 compatibility
+```
+
 [![Build Status](https://travis-ci.org/silverstripe/silverstripe-redirectedurls.svg?branch=master)](https://travis-ci.org/silverstripe/silverstripe-redirectedurls)
 [![Latest Stable Version](https://poser.pugx.org/silverstripe/redirectedurls/version)](https://packagist.org/packages/silverstripe/redirectedurls)
 [![License](https://poser.pugx.org/silverstripe/redirectedurls/license)](https://packagist.org/packages/silverstripe/redirectedurls)
